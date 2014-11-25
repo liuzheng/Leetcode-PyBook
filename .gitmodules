@@ -1,0 +1,9 @@
+[submodule "code/baiyubin"]
+	path = code/baiyubin
+	url = https://github.com/baiyubin/leetcode.git
+[submodule "latex/typeset"]
+	path = latex/typeset
+	url = https://github.com/chenshuo/typeset.git
+[submodule "code/leetcoders"]
+	path = code/leetcoders
+	url = https://github.com/leetcoders/Leetcode-Py.git
